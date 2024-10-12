@@ -162,3 +162,11 @@ cython_debug/
 #.idea/
 
 *_env
+__pycache__
+.vscode
+partition
+continuous
+rules
+tsp
+multi
+symbreg
